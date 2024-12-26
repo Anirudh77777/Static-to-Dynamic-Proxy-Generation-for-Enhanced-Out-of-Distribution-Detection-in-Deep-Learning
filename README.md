@@ -34,22 +34,6 @@ This repository implements the **AdaNeg framework**, a novel approach to Out-of-
 - Evaluate on real-world domain-specific datasets.
 - Develop hybrid frameworks combining generative and adaptive approaches.
 
-## Usage
-Clone this repository and follow the provided instructions to reproduce the results and experiment with the AdaNeg framework on custom datasets. For detailed implementation, refer to the `notebooks/` and `scripts/` directories.
-
-```bash
-# Clone the repository
-$ git clone https://github.com/your-repo/adaneg-ood-detection.git
-
-# Navigate to the project directory
-$ cd adaneg-ood-detection
-
-# Install dependencies
-$ pip install -r requirements.txt
-
-# Run experiments
-$ python main.py --config configs/adaneg.yaml
-```
 
 ## Citation
 If you find this work useful, please cite:
